@@ -1,0 +1,11 @@
+.d-none {
+    display: none;
+}
+body { 
+    background-image: url('/images/back.png');
+    background-repeat:initial;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
